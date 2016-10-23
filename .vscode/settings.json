@@ -1,0 +1,13 @@
+{
+
+"files.exclude": {
+    "node_modules/": true,
+    "yarn.lock": true,
+    ".baseDir.js": true,
+    ".gitignore": true,
+    ".tscache": true,
+    ".vscode": true
+}
+,
+"typescript.check.workspaceVersion": false
+}
